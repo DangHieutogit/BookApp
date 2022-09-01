@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_button01.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_button2.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_button3.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_edt1.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_toolbar1.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/drawable/shape_toolbar2.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_category_add.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.152" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_dashboard_user.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_login.xml" value="0.16" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_pdf_add.xml" value="0.12" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_register.xml" value="0.16" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/activity_splash.xml" value="0.176" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp/app/src/main/res/layout/row_category.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/drawable/bg_item.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/drawable/shape_button2.xml" value="0.1135" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/drawable/shape_button3.xml" value="0.1135" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/drawable/shape_edt1.xml" value="0.1135" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/drawable/shape_toolbar1.xml" value="0.1135" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/drawable/shape_toolbar2.xml" value="0.1135" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_category_add.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_dashboard_user.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_main.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_main2.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_pdf_add.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_read_book.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/activity_register.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/item_book.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp1/app/src/main/res/layout/toolbar.xml" value="0.264" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/drawable/ic_heart_filled.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/drawable/ic_heart_outlined.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/drawable/selector_wishlist_item.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_category_add.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_dashboard_user.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_login.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_main.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_main2.xml" value="0.1555921052631579" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_read_book.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_register.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/activity_splash.xml" value="0.15789473684210525" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/item_book.xml" value="0.1" />
+        <entry key="..\:/Users/ADMIN/AndroidStudioProjects/BookApp2/app/src/main/res/layout/row_category.xml" value="0.15789473684210525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

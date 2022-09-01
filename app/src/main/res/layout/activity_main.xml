@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back01"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/iconimg"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:src="@drawable/logo" />
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/iconimg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:fontFamily="serif"
+        android:text="Welcome to Book App Cua Hieu"
+        android:textColor="@color/black"
+
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/shape_button01"
+        android:text="Login"
+        android:textColor="@color/white" />
+
+    <!--    <Button-->
+    <!--        android:background="@drawable/shape_button2"-->
+    <!--        android:textColor="@color/purple_500"-->
+    <!--        android:text="Continue with Login"-->
+    <!--        android:id="@+id/skipBtn"-->
+    <!--        android:layout_above="@id/skipBtnadmin"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"/>-->
+
+    <!--    <Button-->
+    <!--        android:background="@drawable/shape_button2"-->
+    <!--        android:textColor="@color/purple_500"-->
+    <!--        android:text="Continue with Login Admin"-->
+    <!--        android:layout_marginTop="20dp"-->
+    <!--        android:id="@+id/skipBtnadmin"-->
+    <!--        android:layout_alignParentBottom="true"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="wrap_content"/>-->
+
+</RelativeLayout>
